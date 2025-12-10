@@ -1,4 +1,4 @@
-<h1><b>Hi there, I'm </b><a href="https://github.com/B4shCr00k">B4shCr00k</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdwdmthMDB6OGk0Y3V6dTNmbzI2dG84aW5pNDBlZzR5eW02N2N3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/pseud0c1de">pseud0c1de</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdwdmthMDB6OGk0Y3V6dTNmbzI2dG84aW5pNDBlZzR5eW02N2N3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
@@ -22,7 +22,7 @@ interested in offensive security, Malware Dev, Os Internals and binary exploitat
 <div align="center">
 
 
-  <a href="https://x.com/B4shCr00k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://x.com/pseud0c1de"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
   <a href="https://yourblog.com">
   <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress&logoColor=white&color=black" />
 </a>
@@ -62,11 +62,11 @@ interested in offensive security, Malware Dev, Os Internals and binary exploitat
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=B4shCr00k&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=B4shCr00k&theme=nightowl&hide_border=false" alt="B4shCr00k streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pseud0c1de&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseud0c1de&theme=nightowl&hide_border=false" alt="pseud0c1de streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=B4shCr00k&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pseud0c1de&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -77,7 +77,7 @@ interested in offensive security, Malware Dev, Os Internals and binary exploitat
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=B4shCr00k%2FViews-Counter">
+    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=pseud0c1de%2FViews-Counter">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
