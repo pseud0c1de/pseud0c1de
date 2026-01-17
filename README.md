@@ -5,7 +5,7 @@
 
 <img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF1eWJkdXFyZWI0MnE4NWF1NGNiZ3dxaGltaXBkcXZjMGd5bjhraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4hrwXJnW9RuBd6/giphy.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, Consumed by the endless pursuit of knowledge.
+I am a **Computer Science** student, currently halfway through my degree.
 
 interested in offensive security, Malware Dev, Os Internals and binary exploitation.
 
