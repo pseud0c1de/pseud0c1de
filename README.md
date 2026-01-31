@@ -22,7 +22,7 @@ interested in offensive security, Malware Dev, Os Internals and binary exploitat
 <div align="center">
 
 
-  <a href="https://x.com/pseud0c1de"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://x.com/B4shCr00k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
   <a href="https://yourblog.com">
   <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress&logoColor=white&color=black" />
 </a>
